@@ -10,6 +10,12 @@ public class HelloWorld {
     System.out.println("Hello world!");
     System.out.println("Hello world!");
     System.out.println("Hello world!");
+    System.out.println("Hello mama!");
+    System.out.println("Hello world!");
+    System.out.println("Hello world!");
+    System.out.println("Hello world!");
+    System.out.println("Hello world!");
+    System.out.println("Hello world!");
     System.out.println("Hello world!");
     System.out.println("Hello world!");
     System.out.println("Hello world!");
